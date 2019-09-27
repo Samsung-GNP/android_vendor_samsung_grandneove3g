@@ -26,8 +26,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/grandneove3g/proprietary/bin/ext_data.sh:system/vendor/bin/ext_data.sh \
     vendor/samsung/grandneove3g/proprietary/bin/ext_kill.sh:system/vendor/bin/ext_kill.sh \
     vendor/samsung/grandneove3g/proprietary/bin/ext_symlink.sh:system/vendor/bin/ext_symlink.sh \
-    vendor/samsung/grandneove3g/proprietary/vendor/firmware/vbc_eq:system/vendor/firmware/vbc_eq \
-    vendor/samsung/grandneove3g/proprietary/vendor/firmware/BCM4343A0_001.001.034.0056.0197_M_ORC_Core3.hcd:system/vendor/firmware/BCM4343A0_001.001.034.0056.0197_M_ORC_Core3.hcd \
+    vendor/samsung/grandneove3g/proprietary/vendor/firmware/BCM43430A1_001.002.009.0013.0018_ORC_GrandNeo_VE.hcd:system/vendor/firmware/BCM43430A1_001.002.009.0013.0018_ORC_GrandNeo_VE.hcd \
     vendor/samsung/grandneove3g/proprietary/etc/wifi/bcmdhd_apsta.bin:system/vendor/etc/wifi/bcmdhd_apsta.bin \
     vendor/samsung/grandneove3g/proprietary/etc/wifi/bcmdhd_sta.bin:system/vendor/etc/wifi/bcmdhd_sta.bin \
     vendor/samsung/grandneove3g/proprietary/etc/wifi/bcmdhd_mfg.bin:system/vendor/etc/wifi/bcmdhd_mfg.bin \
